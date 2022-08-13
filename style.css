@@ -618,6 +618,9 @@ footer{
     .footer-left{
         margin: 0px auto;
     }
+    .navbar{
+        margin:15px auto;
+    }
 }
 
 
